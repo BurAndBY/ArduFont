@@ -1,5 +1,5 @@
 # MicroFonts (formerly ArduFont)
-Fonts microcontroller port
+Fonts microcontroller port (also some of my pixel fonts)
 
 ___
 ![image](https://user-images.githubusercontent.com/48630651/191004742-a6474c25-5118-4ef3-a3b2-ac007fe4d9a7.png)
