@@ -1,6 +1,22 @@
 # MicroFonts (formerly ArduFont)
 Fonts microcontroller port
 
+![image](https://user-images.githubusercontent.com/48630651/191004742-a6474c25-5118-4ef3-a3b2-ac007fe4d9a7.png)
+![image](https://user-images.githubusercontent.com/48630651/191005539-58632d1d-c2f6-4576-bcdb-d1f50fce1428.png)
+
+License
+```
+Just credit BurAndBY.
+Free for personal and commercional use.
+```
+
+Credit me:
+
+[Github](https://github.com/burandby)
+
+[Twitter](https://twitter.com/burandby)
+
+
 ______
 ![image](https://user-images.githubusercontent.com/48630651/191002914-0690c4d0-5f6d-4a04-9531-84312c560243.png) 
 
